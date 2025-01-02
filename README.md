@@ -1,2 +1,0 @@
-# watermcstore
-website
